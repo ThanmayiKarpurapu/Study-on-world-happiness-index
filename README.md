@@ -1,4 +1,4 @@
-**INTRODUCTION: **
+**Intoduction:**
 In an ever-evolving world, the pursuit of happiness is a fundamental aspiration for individuals and nations 
 alike. The World Happiness Index, a comprehensive measure of well-being and life satisfaction, offers a 
 unique lens through which we can analyze and understand the factors that contribute to happiness on a 
@@ -8,7 +8,7 @@ Happiness Index dataset, aiming to uncover patterns, trends, and insights that s
 across countries and over time. 
 
 
-**Data Source: **
+**Data Source:**
 https://worldhappiness.report/data/ 
 The World Happiness Report is a landmark survey of the state of global happiness and we aim to study 
 how happy we actually are. 
@@ -17,7 +17,7 @@ is from 2005 to 2023. There are approximately 165 countries which we have taken 
 doing our analysis. 
 
 
-**Variables taken into Account while doing the study are as follows: **
+**Variables taken into Account while doing the study are as follows:**
 ● Country Name: Name of Countries 
 ● Year: Years taken into account  
 ● Life Ladder: This is the indication of Happiness score. The top of the ladder represents the best possible 
@@ -48,7 +48,7 @@ anger, respectively.
 Learning 
 
 
-**Data Cleaning: **
+**Data Cleaning:**
 1. We ensure data integrity by conducting a thorough examination for duplicates and affirming the 
 absence of any duplicate entries in our dataset. 
 2. Removed data pertaining to the years 2005 and 2006, where the datasets exhibited less than 100 
@@ -67,7 +67,7 @@ rows associated with these countries, ensuring data accuracy.
 7. Achieved data consistency by eliminating both missing and duplicate values, resulting in a refined 
 dataset ready for further analysis. 
 
-**EXPLORATORY DATA ANALYSIS: **
+**EXPLORATORY DATA ANALYSIS:**
 Descriptive Statistics: 
 In our exploratory data analysis (EDA), we began by visualizing the trend of the happiness index over the 
 years. This provided insights into how overall happiness has evolved across different time periods. 
@@ -89,7 +89,7 @@ happiness trends over the years.
 8.  Correlation Matrix
 9.  Violin plots
 
-**MACHINE LEARNING: **
+**MACHINE LEARNING:**
 For performing model validation, we applied Machine Learning techniques on our World Happiness Index 
 dataset. 
 The steps we followed for regression modeling were- 
@@ -130,7 +130,7 @@ effective resource distribution for the well-being of the population.
 7. Predictive Analytics: The trained model can be used for predictive analytics to estimate future 
 happiness scores based on changing conditions.
 
-**CONCLUSION: **
+**CONCLUSION:**
 The analysis of global happiness metrics reveals a heartening trend; the average happiness score for the 
 leading ten countries stands at an impressive 7.5. Additionally, the general trajectory of happiness over the 
 years suggests a positive incline, hinting at improving global sentiments. Core determinants such as 
@@ -142,7 +142,7 @@ predicting national happiness levels. This not only validates existing well-bein
 deeper exploration into the science of happiness and its determinants. 
 
 
-**RECOMMENDATIONS: **
+**RECOMMENDATIONS:**
 In light of the findings, it is recommended that health care be made a universal mandate, assuring all citizens 
 equitable access to essential medical services, which is a cornerstone for fostering national happiness. 
 Economic strategies should also be revised to prioritize growth in GDP per capita, focusing on bolstering 
